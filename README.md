@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ACHINTYA MITRA
-- 👀 I’m interested in DATA SCIENCE
+- 👀 I’m interested in DATA SCIENCE and ML engineering
 - 🌱 I’m currently learning data science
 - 📫 reach me at achintyamitra26@gmail.com 
 
